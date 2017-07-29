@@ -1,2 +1,2 @@
-# albion-bot
+# Albion Bot
 Discord bot for Albion Online
